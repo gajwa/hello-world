@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning kanu Rahul not allowed in pune </h1>
+   <h1> Thankyou, Happy Learning kanu Rahul allowed everywhere </h1>
 
   
 </form>
